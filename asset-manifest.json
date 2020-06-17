@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DelimiterTable/static/css/main.afb87126.chunk.css",
+    "main.js": "/DelimiterTable/static/js/main.70b3ab7c.chunk.js",
+    "main.js.map": "/DelimiterTable/static/js/main.70b3ab7c.chunk.js.map",
+    "runtime-main.js": "/DelimiterTable/static/js/runtime-main.73a0433f.js",
+    "runtime-main.js.map": "/DelimiterTable/static/js/runtime-main.73a0433f.js.map",
+    "static/js/2.31dd5390.chunk.js": "/DelimiterTable/static/js/2.31dd5390.chunk.js",
+    "static/js/2.31dd5390.chunk.js.map": "/DelimiterTable/static/js/2.31dd5390.chunk.js.map",
+    "index.html": "/DelimiterTable/index.html",
+    "precache-manifest.2192d962be88300dcdf97ade32074aa3.js": "/DelimiterTable/precache-manifest.2192d962be88300dcdf97ade32074aa3.js",
+    "service-worker.js": "/DelimiterTable/service-worker.js",
+    "static/css/main.afb87126.chunk.css.map": "/DelimiterTable/static/css/main.afb87126.chunk.css.map",
+    "static/js/2.31dd5390.chunk.js.LICENSE.txt": "/DelimiterTable/static/js/2.31dd5390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73a0433f.js",
+    "static/js/2.31dd5390.chunk.js",
+    "static/css/main.afb87126.chunk.css",
+    "static/js/main.70b3ab7c.chunk.js"
+  ]
+}
