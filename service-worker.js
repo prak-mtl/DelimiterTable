@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DelimiterTable/precache-manifest.2192d962be88300dcdf97ade32074aa3.js"
+  "/DelimiterTable/precache-manifest.7c37c6b5e67d46b423d97d47e5640343.js"
 );
 
 self.addEventListener('message', (event) => {
